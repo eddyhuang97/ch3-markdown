@@ -16,3 +16,13 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# cd command
+```
+cd Desktop/
+```
+* it helps you get into another directory
+* it is always really helpful
+  * learn it
+  * use it
+  
