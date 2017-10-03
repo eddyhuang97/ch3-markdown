@@ -10,3 +10,8 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+# Here is a block quote
+> I don't really know what I'm doing, but I really hope that the code will work.
+
+[GitHub](http://www.github.com)
