@@ -8,4 +8,10 @@ In the space below, make a three column table of the current courses
 you are taking, with separate columns for course number (in **bold**),
 course title (in _italics_), and instructor.
 
-See `complete` branch for answers.
+See `complete` branch for answers
+
+Period | Class
+--- | ---
+**1** | _Info 201_
+**2** | _Info 200_
+**3** | _Info 198_
